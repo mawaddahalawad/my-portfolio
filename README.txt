@@ -34,5 +34,3 @@ This is a personal portfolio, so contributions are currently not required. You m
 ## Copyright & License
 - © Mawaddah Alawad. All rights reserved.  
 - Design from HTML5 UP under the CCA 3.0 License ([html5up.net/license](https://html5up.net/license))
-
-![Homepage Screenshot](images/screenshot-home.png)
