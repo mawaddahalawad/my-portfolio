@@ -26,7 +26,7 @@ This website is built using the HTML5 UP "Massively" template and includes the f
 
 ## How to View the Website
 You can browse the website by opening `index.html` in a web browser, or visit the live GitHub Pages version:  
-[https://mawaddahalawad.github.io/my-portfolio/](https://mawaddahalawad.github.io/my-portfolio/)
+[https://mawaddahalawad.github.io/my-portfolio/] (https://mawaddahalawad.github.io/my-portfolio/)
 
 ## Contributing
 This is a personal portfolio, so contributions are currently not required. You may view or edit the code locally for learning purposes.
